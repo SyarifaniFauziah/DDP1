@@ -33,7 +33,7 @@ match operasi:
   case _:
     print("salah pilih")
 
-# cara pak reza 
+# cara KA JAYA 
 print ("""Selamat datang di aplikasi menghitung luas bangun datar. silahkan pilih salah satu menu dibawah ini: 
       1. Menghitung Luas Persegi
        2. Menghitung Luas Lingkaran 
