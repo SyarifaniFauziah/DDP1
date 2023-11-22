@@ -12,7 +12,7 @@ profil("fani", "depok", "Perempuan", "17 Tahun", "Mendengarkan musik")
 print("=========================================")
 
 #No2
-def cetak_nilai(nilai):
+def hasil(nilai):
     if(nilai <=60):
         return "gagal"
     elif(nilai >=61 and nilai <=70):
@@ -24,9 +24,9 @@ def cetak_nilai(nilai):
     else:
         return "nilai tidak ada"
 
-cetak_nilai(60)
-cetak_nilai(74)
-cetak_nilai(98)
+hasil(60)
+hasil(74)
+hasil(98)
 
 print("========================================")
 
