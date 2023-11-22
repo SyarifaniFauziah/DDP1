@@ -24,9 +24,9 @@ def hasil(nilai):
     else:
         return "nilai tidak ada"
 
-hasil(60)
-hasil(74)
-hasil(98)
+print(hasil(60))
+print(hasil(74))
+print(hasil(98))
 
 print("========================================")
 
